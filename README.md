@@ -1,4 +1,4 @@
-# Pandemic_symulation
+# Pandemic_simulation
 The program is a simplified pandemic simulator which creates an animation showing simulated city's citizens movement and health dependence on time.
 
 It creates points - each of them symbolize single person with its own two-dimentional velocity and color which shows health - green color means a health person, red - an infected person and blue color - a convalescent. Infected people infect health people who are close enough. The goal of the simulation is to create a visualization citizens health after given time and other initial conditions.
